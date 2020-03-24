@@ -2,4 +2,4 @@
 
 ## HTML, CSS. Made with course material from Front end development course at Skillcrush.
 
-### [Have a look!](https://livhed.github.io/simple-businesscard/)
+### [Have a look here!](https://livhed.github.io/simple-businesscard/)
